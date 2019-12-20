@@ -1,0 +1,27 @@
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\bin\Debug\Aplikasi Penggajian.exe
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\bin\Debug\Aplikasi Penggajian.pdb
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\bin\Debug\Aplikasi Penggajian.xml
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.Resources.resources
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\obj\Debug\Aplikasi Penggajian.vbproj.GenerateResource.Cache
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\obj\Debug\Aplikasi Penggajian.exe
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\obj\Debug\Aplikasi Penggajian.xml
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\obj\Debug\Aplikasi Penggajian.pdb
+C:\Users\Rafli\AppData\Local\Temporary Projects\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.User.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi Penggajian.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi Penggajian.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi Penggajian.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\bin\Debug\Aplikasi Penggajian.exe
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\bin\Debug\Aplikasi Penggajian.pdb
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\bin\Debug\Aplikasi Penggajian.xml
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.User.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.Resources.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi Penggajian.vbproj.GenerateResource.Cache
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.Pendapatan.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.Potongan.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.Karyawan.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.Login.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.Penggajian.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.MenuUtama.resources
+C:\Users\Rafli\Documents\Visual Studio 2008\Projects\Aplikasi Penggajian\Aplikasi Penggajian\obj\Debug\Aplikasi_Penggajian.Cetak.resources
